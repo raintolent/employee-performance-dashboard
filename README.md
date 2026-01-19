@@ -45,3 +45,16 @@ The full Excel dashboard file is available here (view-only):
 ## Notes
 This project uses a publicly available employee performance dataset.  
 Management hierarchy and tenure bands were derived for analytical demonstration purposes.
+
+## Power BI Version
+This project was also recreated in Power BI to demonstrate DAX-based KPIs, benchmark comparisons, and interactive filtering.
+
+**Highlights:**
+- DAX measures for performance, attrition, and workload
+- Organizational benchmarks using ALL()
+- Risk indicators using dynamic arrows (▲ ▼)
+- Clean executive-focused layout
+
+File:
+- Employee_Performance_Dashboard_PowerBI.pdf
+
